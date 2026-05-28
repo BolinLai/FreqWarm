@@ -7,8 +7,8 @@
 #### [Bolin Lai](https://bolinlai.github.io/), [Xudong Wang](https://people.eecs.berkeley.edu/~xdwang/), [Saketh Rambhatla](https://rssaketh.github.io/), [James M. Rehg](https://rehg.org/), [Zsolt Kira](https://faculty.cc.gatech.edu/~zk15/), [Rohit Girdhar](https://rohitgirdhar.github.io/), [Ishan Misra](https://imisra.github.io/)
 
 <p align="center">
-  <img src="https://bolinlai.github.io/projects/FreqWarm/figures/method.png" height="330"/>
-  <img src="https://bolinlai.github.io/projects/FreqWarm/figures/teaser.png" height="330"/>
+  <img src="https://bolinlai.github.io/projects/FreqWarm/figures/method.png" height="300"/>
+  <img src="https://bolinlai.github.io/projects/FreqWarm/figures/teaser.png" height="300"/>
 </p>
 
 This repository provides the core code snippet for our FreqWarm method. The full codebase cannot be released due to legal restrictions, but this snippet demonstrates the key idea.
